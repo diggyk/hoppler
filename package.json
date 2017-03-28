@@ -1,10 +1,10 @@
 {
   "name": "hopplerui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hoppler UI",
   "main": "index.js",
   "dependencies": {
-    "hopplerjs": "^0.1.2"
+    "hopplerjs": "^0.1.4"
   },
   "devDependencies": {},
   "scripts": {
